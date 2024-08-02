@@ -1,0 +1,19 @@
+Ten cua hang: Quan Ca Phe A
+Dia chi: 123 Duong Chinh, Quan 1, TP.HCM
+San pham:
+- Espresso (2.500 dong) - Nguon goc: Brazil, Do rang: Dam
+- Ca phe Latte (3.000 dong) - Nguon goc: Colombia, Do rang: Trung binh
+- Cappuccino (2.750 dong) - Nguon goc: Ethiopia, Do rang: Nhe
+- Mocha (3.500 dong) - Nguon goc: Viet Nam, Do rang: Trung binh
+- Americano (2.250 dong) - Nguon goc: Costa Rica, Do rang: Dam
+- Macchiato (3.250 dong) - Nguon goc: Brazil, Do rang: Trung binh
+- Flat White (3.000 dong) - Nguon goc: Colombia, Do rang: Nhe
+- Affogato (4.000 dong) - Nguon goc: Y, Do rang: Dam
+- Irish Coffee (4.500 dong) - Nguon goc: Ireland, Do rang: Trung binh
+- Turkish Coffee (3.750 dong) - Nguon goc: Tho Nhi Ky, Do rang: Dam
+- Ca phe da (3.250 dong) - Nguon goc: Brazil, Do rang: Nhe
+- Frappuccino (4.000 dong) - Nguon goc: Colombia, Do rang: Trung binh
+- Viennese Coffee (3.750 dong) - Nguon goc: Ao, Do rang: Dam
+- Cortado (3.500 dong) - Nguon goc: Tay Ban Nha, Do rang: Trung binh
+- Lungo (2.750 dong) - Nguon goc: Y, Do rang: Nhe
+
